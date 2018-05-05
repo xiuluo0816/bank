@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.novel.basic.cms.model.CertificateType">
+
+    <!-- 查询凭证类型List -->
+    <select id="findAllCertificateTypes" resultType="com.novel.basic.cms.model.CertificateType">
+        SELECT
+              id,
+              code,
+              name,
+              created_by as createdBy,
+              create_time as createTime,
+              update_by as updateBy,
+              update_time as updateTime,
+              is_deleted as isDeleted
+        FROM
+              certificate_type
+        WHERE
+              is_deleted = 0
+    </select>
+
+    <!-- 插入凭证类型-->
+    <insert id="addCertificateType" parameterType="com.novel.basic.cms.model.CertificateType">
+        INSERT INTO
+        certificate_type
+        (
+        code,
+        `name`,
+        created_by,
+        create_time
+        )
+        VALUES
+        (
+        #{code},
+        #{name},
+        #{createdBy},
+        #{createTime}
+        )
+    </insert>
+
+    <!-- 根据id查询凭证类型-->
+    <select id="findCertificateTypeById" resultType="com.novel.basic.cms.model.CertificateType">
+        SELECT
+          id,
+          code,
+          name
+        FROM
+          certificate_type
+		WHERE is_deleted = 0
+		AND   id = #{id}
+    </select>
+
+    <!-- 编辑凭证类型 -->
+    <update id="updateCertificateType">
+        UPDATE
+            certificate_type
+        SET
+            code = #{code},
+            name = #{name}
+        WHERE id = #{id}
+    </update>
+
+    <!-- 删除凭证类型 -->
+    <update id="deleteCertificateTypeById">
+        UPDATE
+            certificate_type
+        SET
+            is_deleted = 1
+        WHERE
+            id = #{id}
+    </update>
+
+</mapper>

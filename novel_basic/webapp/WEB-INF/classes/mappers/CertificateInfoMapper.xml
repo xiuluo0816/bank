@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.novel.basic.cms.model.CertificateInfo">
+
+    <!-- 查询凭证资料List -->
+    <select id="findAllCertificateInfos" resultType="com.novel.basic.cms.model.CertificateInfo">
+        SELECT
+              id,
+              use_date as useDate,
+              certificate_type_id as certificateTypeId,
+              user_id as userId,
+              print_num as printNum,
+              business_num as businessNum,
+              mark,
+              status,
+              created_by as createdBy,
+              create_time as createTime,
+              update_by as updateBy,
+              update_time as updateTime,
+              is_deleted as isDeleted
+        FROM
+              certificate_info
+        WHERE
+              is_deleted = 0
+    </select>
+
+    <!-- 插入凭证资料-->
+    <insert id="addCertificateInfo" parameterType="com.novel.basic.cms.model.CertificateInfo">
+        INSERT INTO
+        certificate_info
+        (
+        use_date,
+        certificate_type_id,
+        user_id,
+        print_num,
+        business_num,
+        mark,
+        status,
+        created_by,
+        create_time
+        )
+        VALUES
+        (
+        #{useDate},
+        #{certificateTypeId},
+        #{userId},
+        #{printNum},
+        #{businessNum},
+        #{mark},
+        #{status},
+        #{createdBy},
+        #{createTime}
+        )
+    </insert>
+
+    <!-- 根据id查询凭证资料-->
+    <select id="findCertificateInfoById" resultType="com.novel.basic.cms.model.CertificateInfo">
+       SELECT
+              id,
+              use_date as useDate,
+              certificate_type_id as certificateTypeId,
+              user_id as userId,
+              print_num as printNum,
+              business_num as businessNum,
+              mark,
+              status,
+              created_by as createdBy,
+              create_time as createTime,
+              update_by as updateBy,
+              update_time as updateTime,
+              is_deleted as isDeleted
+        FROM
+              certificate_info
+		WHERE is_deleted = 0
+		AND   id = #{id}
+    </select>
+
+    <!-- 编辑凭证资料 -->
+    <update id="updateCertificateInfo">
+        UPDATE
+            certificate_info
+        SET
+            certificate_type_id = #{certificateTypeId},
+            business_num = #{businessNum},
+            mark = #{mark}
+        WHERE id = #{id}
+    </update>
+
+    <!-- 删除凭证资料 -->
+    <update id="deleteCertificateInfoById">
+        UPDATE
+            certificate_info
+        SET
+            is_deleted = 1
+        WHERE
+            id = #{id}
+    </update>
+
+</mapper>

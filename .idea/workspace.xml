@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6d06c8c-e6aa-4878-8922-0901c4ee8c83" name="Default" comment="" />
+    <ignored path="bank.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="bank" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Downloads/codegen-2.0.5/bin/codegen_demo/codegentest" value="4463767659000" />
+        <entry key="$USER_HOME$/Downloads/saturn-job-demo/saturn-demo-gradle" value="3010930716000" />
+        <entry key="$USER_HOME$/test/osp-vis-stock.api.vip.com" value="4416656460000" />
+        <entry key="$USER_HOME$/test1/osp-vis-stock.api.vip.com" value="4416664860000" />
+        <entry key="$USER_HOME$/work/codegen-target/osp-vis-price.api.vip.com" value="4423352403000" />
+        <entry key="$USER_HOME$/work/codegen-target/price" value="4423352403000" />
+        <entry key="$USER_HOME$/work/codegen-target/scheduletest" value="4419398979000" />
+        <entry key="$USER_HOME$/work/feature_auto_online_optimize/osp-vis-stock.api.vip.com" value="4525448469000" />
+        <entry key="$USER_HOME$/work/feature_auto_online_refactor/gerrit/osp-vis-stock.api.vip.com" value="4474339818000" />
+        <entry key="$USER_HOME$/work/feature_auto_online_refactor/master/osp-vis-stock.api.vip.com" value="4494342133000" />
+        <entry key="$USER_HOME$/work/feature_auto_online_refactor/master20170623/osp-vis-stock.api.vip.com" value="4494553131000" />
+        <entry key="$USER_HOME$/work/feature_auto_online_refactor/mergemaster/osp-vis-stock.api.vip.com" value="4489940918000" />
+        <entry key="$USER_HOME$/work/feature_auto_online_refactor/osp-vis-stock.api.vip.com" value="4466342668000" />
+        <entry key="$USER_HOME$/work/feature_auto_online_si/gerrit/osp-vis-stock.api.vip.com" value="4506968843000" />
+        <entry key="$USER_HOME$/work/feature_auto_online_si/mergemaster/osp-vis-stock.api.vip.com" value="4508314435000" />
+        <entry key="$USER_HOME$/work/feature_auto_online_si/osp-vis-stock.api.vip.com" value="4494884943000" />
+        <entry key="$USER_HOME$/work/feature_auto_online_three/osp-vis-stock.api.vip.com" value="4526545071000" />
+        <entry key="$USER_HOME$/work/feature_djdc_support_release_stock/feature_djdc_support_release_stock_new/osp-vis-stock.api.vip.com" value="4574141722000" />
+        <entry key="$USER_HOME$/work/feature_djdc_support_release_stock/osp-vis-stock.api.vip.com" value="4571671457000" />
+        <entry key="$USER_HOME$/work/feature_fix_stock_20171212/osp-vis-stock.api.vip.com" value="4539205380000" />
+        <entry key="$USER_HOME$/work/feature_global_purchasing_sales/master/osp-vis-stock.api.vip.com" value="4489190214000" />
+        <entry key="$USER_HOME$/work/feature_global_purchasing_sales/master20170623/osp-vis-stock.api.vip.com" value="4494628347000" />
+        <entry key="$USER_HOME$/work/feature_global_purchasing_sales/osp-vis-stock.api.vip.com" value="4484637233000" />
+        <entry key="$USER_HOME$/work/feature_normal_sell_defective_goods/osp-vis-stock.api.vip.com" value="4517408361000" />
+        <entry key="$USER_HOME$/work/feature_normal_sell_djdc/osp-vis-stock.api.vip.com" value="4511666172000" />
+        <entry key="$USER_HOME$/work/feature_normal_visable_1115/osp-vis-stock.api.vip.com" value="4532753734000" />
+        <entry key="$USER_HOME$/work/feature_normality_3pl_extend/gitlab/osp-vis-stock.api.vip.com" value="4508141274000" />
+        <entry key="$USER_HOME$/work/feature_normality_3pl_extend/osp-vis-stock.api.vip.com" value="4505266036000" />
+        <entry key="$USER_HOME$/work/feature_normality_interface_for_vop/bak/bak_bak/osp-vis-stock.api.vip.com" value="4417388214000" />
+        <entry key="$USER_HOME$/work/feature_normality_interface_for_vop/bak/osp-vis-stock.api.vip.com" value="4417386243000" />
+        <entry key="$USER_HOME$/work/feature_normality_interface_for_vop/master/osp-vis-stock.api.vip.com" value="4422508392000" />
+        <entry key="$USER_HOME$/work/feature_normality_interface_for_vop/osp-vis-purchase.api.vip.com" value="4417391969000" />
+        <entry key="$USER_HOME$/work/feature_normality_interface_for_vop/osp-vis-stock.api.vip.com" value="4417379532000" />
+        <entry key="$USER_HOME$/work/feature_normality_support_frontwarehouse_and_pos/osp-vis-stock.api.vip.com" value="4512452265000" />
+        <entry key="$USER_HOME$/work/feature_normality_support_frontwarehouse_and_pos_20170831/osp-vis-stock.api.vip.com" value="4512487740000" />
+        <entry key="$USER_HOME$/work/feature_optimize_Visualization_addQueue/osp-vis-stock.api.vip.com" value="4527298983000" />
+        <entry key="$USER_HOME$/work/feature_passenger_returned_sales_pop_partition_sale/merge/osp-vis-stock.api.vip.com" value="4562481941000" />
+        <entry key="$USER_HOME$/work/feature_passenger_returned_sales_pop_partition_sale/osp-vis-stock.api.vip.com" value="4560447350000" />
+        <entry key="$USER_HOME$/work/feature_refactoring_base/gerrit/osp-vis-product.api.vip.com" value="4446421938000" />
+        <entry key="$USER_HOME$/work/feature_refactoring_base/gerrit1/osp-vis-product.api.vip.com" value="4446673722000" />
+        <entry key="$USER_HOME$/work/feature_refactoring_base/gerrit2/osp-vis-product.api.vip.com" value="4448603780000" />
+        <entry key="$USER_HOME$/work/feature_refactoring_base/gerrit2/osp-vis-product.api.vip.com/gradle" value="10376068045000" />
+        <entry key="$USER_HOME$/work/feature_refactoring_base/gerrit3/osp-vis-product.api.vip.com" value="4452897086000" />
+        <entry key="$USER_HOME$/work/feature_refactoring_base/gerrit3/vis-product.api.vip.com" value="4455233622000" />
+        <entry key="$USER_HOME$/work/feature_refactoring_base/osp-vis-product.api.vip.com" value="4443556907000" />
+        <entry key="$USER_HOME$/work/feature_stock_HTMD_auto_online/gitlab/osp-vis-stock.api.vip.com" value="4545371802000" />
+        <entry key="$USER_HOME$/work/feature_stock_HTMD_auto_online/merge/osp-vis-stock.api.vip.com" value="4546462838000" />
+        <entry key="$USER_HOME$/work/feature_stock_HTMD_auto_online/osp-vis-stock.api.vip.com" value="4543323096000" />
+        <entry key="$USER_HOME$/work/feature_stock_add_log_and_exectime/osp-vis-stock.api.vip.com" value="4530642325000" />
+        <entry key="$USER_HOME$/work/feature_stock_add_northeast_warehouse/osp-vis-stock.api.vip.com" value="4574672994000" />
+        <entry key="$USER_HOME$/work/feature_stock_fix_20180314/osp-vis-stock.api.vip.com" value="4563058830000" />
+        <entry key="$USER_HOME$/work/feature_stock_fix_query_schedule_stock/osp-vis-stock.api.vip.com" value="4570760985000" />
+        <entry key="$USER_HOME$/work/feature_stock_interface_transformation/gitlab/osp-vis-stock.api.vip.com" value="4566355402000" />
+        <entry key="$USER_HOME$/work/feature_stock_interface_transformation/osp-vis-stock.api.vip.com" value="4566097541000" />
+        <entry key="$USER_HOME$/work/feature_stock_monitor/osp-vis-stock.api.vip.com" value="4488903882000" />
+        <entry key="$USER_HOME$/work/feature_stock_mysql_asgard/osp-vis-stock.api.vip.com" value="4552414140000" />
+        <entry key="$USER_HOME$/work/feature_stock_mysql_asgard2/osp-vis-stock.api.vip.com" value="4566952119000" />
+        <entry key="$USER_HOME$/work/feature_stock_normality_visualization/osp-vis-stock.api.vip.com" value="4506941188000" />
+        <entry key="$USER_HOME$/work/feature_stock_normality_visualization_201708/feature_stock_normality_visualization_201708/osp-vis-stock.api.vip.com" value="4512272560000" />
+        <entry key="$USER_HOME$/work/feature_stock_normality_visualization_201708/new/osp-vis-stock.api.vip.com" value="4513586604000" />
+        <entry key="$USER_HOME$/work/feature_stock_normality_visualization_201708/osp-vis-stock.api.vip.com" value="4508582148000" />
+        <entry key="$USER_HOME$/work/feature_stock_normality_visualization_optimize/osp-vis-stock.api.vip.com" value="4524376179000" />
+        <entry key="$USER_HOME$/work/feature_stock_po_new_process/osp-vis-stock.api.vip.com" value="4570027603000" />
+        <entry key="$USER_HOME$/work/feature_stock_po_recons/osp-vis-stock.api.vip.com" value="4561382150000" />
+        <entry key="$USER_HOME$/work/feature_stock_product_manager_new/osp-vis-stock.api.vip.com" value="4548184686000" />
+        <entry key="$USER_HOME$/work/feature_stock_refactor/osp-vis-stock.api.vip.com" value="4532457085000" />
+        <entry key="$USER_HOME$/work/feature_stock_si_v1/osp-vis-stock.api.vip.com" value="4484449014000" />
+        <entry key="$USER_HOME$/work/feature_stock_visualization_support_3pl/gitlab/osp-vis-stock.api.vip.com" value="4560654467000" />
+        <entry key="$USER_HOME$/work/feature_stock_visualization_support_3pl/new/osp-vis-stock.api.vip.com" value="4553400799000" />
+        <entry key="$USER_HOME$/work/feature_stock_visualization_support_3pl/osp-vis-stock.api.vip.com" value="4543328629000" />
+        <entry key="$USER_HOME$/work/feature_support_front_bin/master/osp-vis-product.api.vip.com" value="4487352795000" />
+        <entry key="$USER_HOME$/work/feature_support_front_bin/osp-vis-product.api.vip.com" value="4483482323000" />
+        <entry key="$USER_HOME$/work/feature_support_front_bin/osp-vis-stock.api.vip.com" value="4476881980000" />
+        <entry key="$USER_HOME$/work/feature_system_tool/master/osp-vis-stock.api.vip.com" value="4485274986000" />
+        <entry key="$USER_HOME$/work/feature_system_tool/osp-stock.api.vip.com" value="4482635814000" />
+        <entry key="$USER_HOME$/work/feature_system_tool/osp-vis-stock.api.vip.com" value="4485274185000" />
+        <entry key="$USER_HOME$/work/feature_system_tool_20170524/master/osp-vis-stock.api.vip.com" value="4486860375000" />
+        <entry key="$USER_HOME$/work/feature_system_tool_20170524/osp-vis-stock.api.vip.com" value="4486782201000" />
+        <entry key="$USER_HOME$/work/feature_timing_task_access_saturn/vip-job-vis-stock" value="3044434870000" />
+        <entry key="$USER_HOME$/work/feature_verify_create_sto/osp-vis-stock.api.vip.com" value="4531712829000" />
+        <entry key="$USER_HOME$/work/hotfix/20170818/osp-vis-stock.api.vip.com" value="4509131018000" />
+        <entry key="$USER_HOME$/work/hotfix/osp-vis-stock.api.vip.com" value="4509080188000" />
+        <entry key="$USER_HOME$/work/master/osp-vis-stock.api.vip.com" value="4575962517000" />
+        <entry key="$USER_HOME$/work/master/vip-job-vis-stock" value="3035952862000" />
+        <entry key="$USER_HOME$/work/normal_stock_ht_recons/osp-vis-stock.api.vip.com" value="4526220111000" />
+        <entry key="$USER_HOME$/work/osp-vis-price.api.vip.com" value="4423352403000" />
+        <entry key="$USER_HOME$/work/osp-vis-product.api.vip.com" value="4443274107000" />
+        <entry key="$USER_HOME$/work/osp-vis-purchase.api.vip.com" value="4499542131000" />
+        <entry key="$USER_HOME$/work/osp-vis-stock-analysis.api.vip.com/osp-vis-stock-analysis.api.vip.com" value="4512176667000" />
+        <entry key="$USER_HOME$/work/osp-vis-stock.api.vip.com" value="4417128955000" />
+        <entry key="$USER_HOME$/work/regression_20171019/osp-vis-stock.api.vip.com" value="4524629541000" />
+        <entry key="$USER_HOME$/work/share_java_project/vis-product.api.vip.com" value="4459388823000" />
+        <entry key="$USER_HOME$/work/vis-order-osp-service/vis-order-osp-service" value="4412288540000" />
+        <entry key="$USER_HOME$/work/vis-osp-natureKey" value="4440910245000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="382" />
+    <option name="y" value="372" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="novel_basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="novel_basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="novel_basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="novel_basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="novel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/novel_basic" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6d06c8c-e6aa-4878-8922-0901c4ee8c83" name="Default" comment="" />
+      <created>1525491338907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525491338907</updated>
+      <workItem from="1525491340227" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="382" y="372" width="1440" height="873" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gerrit" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
